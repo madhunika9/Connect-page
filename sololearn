@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <style>
+            #h1{
+
+
+            }
+        </style>
+    </head>
+        <body>
+            <div>
+                <div class="top">
+                    <h1 float=right>SOLOLEARN</h1>
+                    <ul class="Home">
+                        <li id="courses">
+                            <a href="courses">COURSES</a>
+                        </li>
+                        <li class="code">
+                            <a href="code">CODE PLAYGROUND</a>
+
+                        </li>
+                        <li class="discuss">
+                            <a href="discuss">DISCUSS</a>
+                        </li>
+                        <li class="TOP LEARNERS">
+                            <a href="TOP LEARNERS">TOP LEARNERS</a>
+                        </li>
+                        <li class="BLOG">
+                            <a href="BLOG">BLOG</a>
+                        </li>
+                        <li class="SIGN IN">
+                            <a href="SIGN IN">SIGN IN</a>
+                        </li>
+
+                    </ul>
+                
+                
+                <div>
+                    
+                    <input type="submit" value="SIGN IN" color="Blue">
+                </div>
+                
+            </div>
+           <div>
+               Learn to code<br/>
+               <bold>
+                for free!
+               </bold>
+               Interactive lessons, "on-the-go" practice, peer support.
+               <a href="START LEARNING NOW!">START LEARNING NOW</a>
+               <br/>
+               <a href="I ALREADY HAVE AN ACCOUNT">I ALREADY HAVE AN ACCOUNT</a>
+           </div>
+
+        </body>
+    
+    
+</html>
